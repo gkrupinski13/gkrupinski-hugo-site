@@ -4,7 +4,7 @@ date: 2021-10-14T11:53:10-04:00
 draft: false
 ---
 
-[Puerto Montt Cover Image](/Puerto-Montt-Cover.png)
+![Puerto Montt Cover Image](/static/Puerto-Montt-Cover.png)
 
 Krupinski's first novel, published by [Crowsnest Books](https://www.crowsnestbooks.com/). You can purchase a copy here: https://www.crowsnestbooks.com/product/puerto-montt/
 
