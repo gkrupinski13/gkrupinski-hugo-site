@@ -1,5 +1,6 @@
 ---
 title: "Puerto Montt"
+author: "Graeme Krupinski"
 date: 2021-10-14T11:53:10-04:00
 draft: false
 ---
