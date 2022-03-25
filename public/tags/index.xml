@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Graeme Krupinski - Writer</title>
-    <link>https://gkrupinski.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Graeme Krupinski - Writer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>2022</copyright><atom:link href="https://gkrupinski.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2022</copyright><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gkrupinski.com/</loc>
+    <loc>/</loc>
     <lastmod>2021-10-14T11:53:10-04:00</lastmod>
   </url><url>
-    <loc>https://gkrupinski.com/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2021-10-14T11:53:10-04:00</lastmod>
   </url><url>
-    <loc>https://gkrupinski.com/posts/puerto-montt/</loc>
+    <loc>/posts/puerto-montt/</loc>
     <lastmod>2021-10-14T11:53:10-04:00</lastmod>
   </url><url>
-    <loc>https://gkrupinski.com/authors/</loc>
+    <loc>/authors/</loc>
   </url><url>
-    <loc>https://gkrupinski.com/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://gkrupinski.com/authors/graeme-krupinski/</loc>
+    <loc>/authors/graeme-krupinski/</loc>
   </url><url>
-    <loc>https://gkrupinski.com/series/</loc>
+    <loc>/series/</loc>
   </url><url>
-    <loc>https://gkrupinski.com/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
