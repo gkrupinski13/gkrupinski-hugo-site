@@ -2,7 +2,7 @@
 title: Graeme Krupinski
 draft: false
 role: Writer
-avatar:
+avatar: /images/Puerto-Montt-Cover.png
 bio:
 organization:
   name: Crowsnest Books
