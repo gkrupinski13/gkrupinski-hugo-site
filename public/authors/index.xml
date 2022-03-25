@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Graeme Krupinski - Writer</title>
-    <link>/authors/</link>
+    <link>https://gkrupinski.com/authors/</link>
     <description>Recent content in Authors on Graeme Krupinski - Writer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>2022</copyright><atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2022</copyright><atom:link href="https://gkrupinski.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Graeme Krupinski</title>
-      <link>/authors/graeme-krupinski/</link>
+      <link>https://gkrupinski.com/authors/graeme-krupinski/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/graeme-krupinski/</guid>
+      <guid>https://gkrupinski.com/authors/graeme-krupinski/</guid>
       <description></description>
     </item>
     
